@@ -3,7 +3,7 @@
 ## Up to 70%
 * Set your canvas to 700px x 700px
 * Draw a small square on the screen (about 20 x20).
-* Write code so that it will move using all 4 arrow keys (see https://processing.org/reference/keyCode.html)
+* Write code so that it will move using all 4 arrow keys (see https://processing.org/reference/keyPressed.html and https://processing.org/reference/keyCode.html)
 
 ## Up to 80% - Add wrap around
 Write code so that the rectangle wraps the screen when it goes off the edges.  
