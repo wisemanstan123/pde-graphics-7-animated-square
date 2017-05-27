@@ -1,6 +1,6 @@
 # CSE1120 Assignment-7: Move that Square
 
-## Up to 70%
+## Up to 70% - Basic Functionality
 * Set your canvas to 700px x 700px
 * Draw a small square on the screen (about 20 x20).
 * Write code so that it will move using all 4 arrow keys (use https://processing.org/reference/keyPressed_.html and https://processing.org/reference/keyCode.html, although you could also use https://processing.org/reference/keyPressed.html, do not use this method in this assignment)
@@ -15,5 +15,5 @@ Create a variable that represents the speed the rectangle moves. When you press 
 Add a red rectangle that is 40 pixels high that covers the entire top of your screen (the top 40px should be all red).  
 If your square is touching the red box, in the red box the following text should occur: “Warning: Wormhole detected ahead.  Approach with caution.”
 
-## Tough Challenge - Not for Marks
+## Bonus Challenge
 See if you can find code online to act as a timer. Five seconds after you press the ‘p’ key, your speed returns to normal.
