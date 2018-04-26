@@ -1,4 +1,6 @@
-# CSE1120 Assignment-7: Move that Square
+# processing-graphics-assignment-7-animated-square
+
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
 ## Up to 60% - Basic Functionality
 * Set your canvas to 700px x 700px
