@@ -1,4 +1,4 @@
-# processing-graphics-assignment-7-animated-square
+# processing-graphics-7-animated-square
 
 **[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
